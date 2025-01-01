@@ -22,6 +22,13 @@ Here’s what I’m currently working with:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash01825&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash01825&layout=compact&theme=radical)
 
-✨ **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-tulshyan-b2758a342/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ash01825)
+#### 🏅 Trophies  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ash01825&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  
+### 🌐 Connect With Me  
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ash01825)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/<your-profile>](https://www.linkedin.com/in/arsh-tulshyan-b2758a342/))  
+
+---
+
+🎉 *Let’s build, learn, and grow together!*  
