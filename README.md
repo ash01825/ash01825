@@ -8,7 +8,7 @@
 - 🌱 Problem solver who enjoys building innovative solutions
 - 🎯 Always eager to learn new technologies and enhance my skill set
 - 🧑‍💻 Actively contributing to open source and improving personal projects
-- 💡 Passionate about systems programming and web development
+- 💡 Passionate about systems programming and algorithms
 
 ## 🛠️ Tech Stack 
 
